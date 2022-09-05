@@ -2,7 +2,10 @@
 <h3 align="center">Fresh Fullstack Developer</h3>
 
 - 🌱 I’m currently learning **JavaScript, React, Express, Sequelize**
+
+
 ![image](https://github.com/mrgaysina/mrgaysina/blob/main/programming.gif)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
